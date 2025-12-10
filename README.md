@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on some personal Projects 
 - 👀 I’m interested in building websites and applications
-- 📫 How to reach me : faizalbajee00@gmail.com
+- 📫 How to reach me : abdulraheemar1880@gmail.com
 - 😄 Pronouns: he/him
 
 - <h3 align="left">Languages and Tools:</h3>
